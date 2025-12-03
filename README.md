@@ -14,7 +14,7 @@ Selamat datang di profil GitHub saya! Saya adalah [Rimzzz programer pemula].
 - **Tools**: Git, Docker, VS Code
 
 ## 📊 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Rimz-star]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimz-star)
 
 ## 🔥 Proyek Unggulan
 - [Rimzz portofolio](https://github.com/Rimz-star/rimzz-project) - ini adalah website portofolio saya.
