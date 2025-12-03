@@ -1,7 +1,7 @@
 # Rimz-star
 # 👋 Halo, Saya [Rimzz]!
 
-Selamat datang di profil GitHub saya! Saya adalah [Rimzzz programer pemula].
+Selamat datang di profil GitHub saya! Saya adalah Rimzzz programer pemula.
 
 ## 🚀 Tentang Saya
 - 🌍 Berbasis di [indonesia]
