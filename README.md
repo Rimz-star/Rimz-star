@@ -1,20 +1,17 @@
-# Rimz-star
-# 👋 Halo, Saya Rimzz!
+# Rimz-star☕
+# 👋 Halo, Saya Rimzz☕
 
 **"Selamat datang di profil GitHub saya! Saya adalah Rimzzz programer pemula.**
 
 ## 🚀 Tentang Saya
 - 🌍 *Berbasis di indonesia*
 - 🎓 **Belajar TKJ**
-- 📧 **Hubungi saya di https://wa.me/6288215943097**
+- 📧 **Hubungi saya di t.me/rimzzzzzzzzzzzzzxxxxxx**
 
 ## 🛠️ Keterampilan
 - **Bahasa Pemrograman💻**: Python, JavaScript, Java
 - **Framework🖨️**: React, Node.js, Laravel
 - **Tools💾**: Git, Docker, VS Code
-
-## 📊 Statistik GitHub
-- GitHub Stats https://github-readme-stats.vercel.app/api?username=Rimz-star
 
 ## 🔥 Proyek Unggulan
 - [Rimzz portofolio](https://github.com/Rimz-star/rimzz-project) - ini adalah website portofolio saya.
